@@ -16,3 +16,17 @@ Clone the repository and serve it locally:
 git clone https://github.com/tahir615/HackDoor.git
 cd HackDoor
 # Open the index.html file in your browser or use a local server to view the site
+
+Technologies Used
+HTML5: Markup for structure
+CSS3: Styling for the layout and design
+JavaScript: Adds interactivity to the website
+Git: Version control
+Contributions
+Feel free to fork and contribute to this project. If you have ideas or improvements, open an issue or submit a pull request!
+
+License
+This project is licensed under the MIT License - see the LICENSE file for details.
+
+Contact
+For inquiries or collaboration, feel free to reach out via email or the contact section on the website.
