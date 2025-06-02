@@ -14,5 +14,5 @@ Clone the repository and serve it locally:
 
 ```bash
 git clone https://github.com/BlankVox/Cybersecurity-Portfolio.git
-cd cybersecurity-Portfolio
+cd Cybersecurity-Portfolio
 # Open the index.html file in your browser or use a local server to view the website 
