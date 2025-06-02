@@ -13,6 +13,6 @@ Welcome to HackDoor, a professional portfolio website for cybersecurity professi
 Clone the repository and serve it locally:
 
 ```bash
-git clone https://github.com/thehackdoor/HackDoor.git
-cd HackDoor
-# Open the index.html file in your browser or use a local server to view the website
+git clone https://github.com/BlankVox/Cybersecurity-Portfolio.git
+cd cybersecurity-Portfolio
+# Open the index.html file in your browser or use a local server to view the website 
